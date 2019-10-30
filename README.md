@@ -1,6 +1,6 @@
 # Ben Chandler
 
-[Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
+[Projects](#projects) | [Skills and Experience](#experience) | [Education](#education) | [Interests](#interests)
 
 ## Projects
 
