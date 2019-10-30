@@ -31,5 +31,25 @@ I helped younger students improve their computer skills.
 
 ## Education
 
+2017- Present	 University of York, BSc Computer Science 
+
+Year 1 and 2 exam results: First class
+
+Year 2 Modules:
+Computability and Complexity:			77% <br>
+Vision and Graphics:				78% <br>
+Principles of Programming Languages:		77% <br>
+Software Engineering Project:			83% <br>
+Artificial Intelligence:				82% <br>
+Implementation of Programming Languages:	87% <br>
+Systems:						          73% <br>
+
+September 2002 - July 2016	Alleyn’s School, London 
+
+
+A-Levels:  Mathematics (A) Computer Science (B) Philosophy (A) <br>
+AS-Levels:  History	 (A) English (A) <br>
+GCSEs: 8 A*s including English, Maths and Computer Science, 1 A, 1 B
+
 
 #### Other qualifications
