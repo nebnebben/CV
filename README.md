@@ -2,6 +2,8 @@
 
 [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
 
+I am a 3rd year Computer Science student looking to do a masters, and learn as much about Computer Science as I can.
+
 ## Projects
  
  **Example Projects on Github** <br>
