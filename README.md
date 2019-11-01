@@ -13,7 +13,6 @@ Out of interest in cellular automata, I designed from scratch a program that use
 [GA game of life](https://github.com/nebnebben/Genetic_gameoflife)
 
 **Pirate Game** <br>
-
 As part of a team, I took a pirate action game from design to execution which required leadership as well as commitment, time management and great teamwork. This built my coding, testing and documentation skills. <br>
 [Pirate Game](https://github.com/nebnebben/All-Hands-On-Deck)
 
