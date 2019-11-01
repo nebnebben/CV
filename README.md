@@ -1,11 +1,11 @@
 # Ben Chandler
 
-[Projects](#projects) | [Skills and Experience](#skills) | [Education](#education) | [Interests](#interests)
+[Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
 
 ## Projects
 
 
-## Skills and Experience
+## Experience
 
 **October 2019 - Ongoing - Co-founded TedX Society:** <br>
 I co-founded TedX society of which I am the treasurer. This involves organisational planning in terms of getting in good speakers and managing events, booking and money.
