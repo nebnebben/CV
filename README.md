@@ -1,6 +1,6 @@
 # Ben Chandler
 
-[Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
+[Projects](#projects) | [Experience](#experience) | [Education](#education) | [Skills](#skills)
 
 I am a 3rd year Computer Science student looking to do a masters, and learn as much about Computer Science as I can.
 
@@ -67,5 +67,6 @@ A-Levels:  Mathematics (A) Computer Science (B) Philosophy (A) <br>
 AS-Levels:  History	 (A) English (A) <br>
 GCSEs: 8 A*s including English, Maths and Computer Science, 1 A, 1 B
 
+## Skills
 
-#### Other qualifications
+I am proficient in languages such as Java, Python and VB.Net. and I have used languages such as Prolog, R, Javascript and Erlang. I can document efficiently, and I have used JUnit for unit testing. I am very fast at picking up new languages, and I am good at getting into complex problems.
