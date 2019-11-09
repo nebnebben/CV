@@ -16,7 +16,9 @@ Out of interest in cellular automata, I designed from scratch a program that use
 As part of a team, I took a pirate action game from design to execution which required leadership as well as commitment, time management and great teamwork. This built my coding, testing and documentation skills. <br>
 [Pirate Game](https://github.com/nebnebben/All-Hands-On-Deck)
 
-**
+**Raspberry Pi Project** <br>
+As part of a team, we worked on different hardware and software aspects for a Raspberry Pi such as developing recognition software from scratch designed to identify specific objects. <br>
+[Raspberry Pi Project](https://github.com/nebnebben/RaspberryPi-Prom)
 
 
 ## Experience
