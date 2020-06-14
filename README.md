@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Skills](#skills)
 
-I am a 3rd year Computer Science student looking to do a masters, and learn as much about Computer Science as I can.
+I am a Computer Science student doing a Masters, looking to learn as much about Computer Science as I can.
 
 ## Projects
  
@@ -19,6 +19,10 @@ As part of a team, I took a pirate action game from design to execution which re
 **Raspberry Pi Project** <br>
 As part of a team, we worked on different hardware and software aspects for a Raspberry Pi such as developing recognition software from scratch designed to identify specific objects. <br>
 [Raspberry Pi Project](https://github.com/nebnebben/RaspberryPi-Prom)
+
+**Neural Architecture Search** <br>
+I designed and programmed an algorithm to automatically find complex neural network architectures for a user-inputted problem to trade-off between different objectives. <br>
+[Neural Architecture Search](https://github.com/nebnebben/Neural-Architecture-Search-Acc.-vs.-Latency-)
 
 
 ## Experience
@@ -47,18 +51,10 @@ I helped younger students improve their computer skills.
 
 ## Education
 
-2017- Present	 University of York, BSc Computer Science 
+2017-2020	 University of York, BSc Computer Science 
 
 Year 1 and 2 exam results: First class
-
-Year 2 Modules:
-Computability and Complexity:			77% <br>
-Vision and Graphics:				78% <br>
-Principles of Programming Languages:		77% <br>
-Software Engineering Project:			83% <br>
-Artificial Intelligence:				82% <br>
-Implementation of Programming Languages:	87% <br>
-Systems:						          73% <br>
+Year 3: First class with Distinction, Average: 87%
 
 September 2002 - July 2016	Alleyn’s School, London 
 
