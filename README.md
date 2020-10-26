@@ -7,7 +7,7 @@
  **Example Projects on Github** <br>
 
 **Prisoner’s Dilemma Experiment** <br>
-I experimented with how game theory strategies performed by competing agents changed over time, and how those strategies evolved within a population of those agents within simulations I coded from scratch. <br>
+I experimented with how game theory strategies performed by competing agents changed over time, and how a population of those agents allowed strategies to evolve within simulations I coded from scratch. <br>
 [Prisoner’s Dilemma Experiment](https://github.com/nebnebben/Prisoner-s-Dilemma)
  
 **Neural Architecture Search** <br>
